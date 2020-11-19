@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/createSnapOption"
+        android:icon="@drawable/baseline_add_black_18dp"
+        android:title="create snap"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/logoutOption"
+        android:title="logout" />
+</menu>
